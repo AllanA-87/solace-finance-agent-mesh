@@ -34,3 +34,10 @@ The system uses a **Decoupled Request-Reply** pattern:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/solace-finance-agent-mesh.git](https://github.com/YOUR_USERNAME/solace-finance-agent-mesh.git)
    cd solace-finance-agent-mesh
+## 🏃 How to Run the Demo
+
+1. **Clone & Install:**
+   ```bash
+   git clone [https://github.com/AllanA-87/solace-finance-agent-mesh.git](https://github.com/AllanA-87/solace-finance-agent-mesh.git)
+   cd solace-finance-agent-mesh
+   pip install -r requirements.txt
