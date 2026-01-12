@@ -1,0 +1,7 @@
+solace-agent-mesh
+fastapi
+uvicorn
+python-dotenv
+# Using stable binaries for Python 3.13 compatibility
+numpy>=1.26.0
+pandas>=2.1.0
